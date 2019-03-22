@@ -1,0 +1,1 @@
+程序基于QT开发工具，可以点击bin中的Chess_boxed.exe程序直接运行。
